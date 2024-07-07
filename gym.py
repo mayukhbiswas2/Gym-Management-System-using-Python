@@ -24,7 +24,7 @@ class Session:
         self.session_type = session_type
 
 class GymManagementSystem:
-    print("Welcome to DM Fitness")
+    print("Welcome to DM Fitness Club")
     def __init__(self):
         self.members = []
         self.trainers = []
